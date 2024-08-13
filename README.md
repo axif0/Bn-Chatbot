@@ -1,4 +1,3 @@
-Certainly! Below is a consolidated `readme.md` file that includes information from various sections:
 
 ```markdown
 # Chatbot using Seq2Seq LSTM Models
